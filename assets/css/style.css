@@ -12772,7 +12772,7 @@ textarea {
 
   background: #FFFFFF;
 
-  border-bottom: 2px solid #09A3C4;
+  border-bottom: 2px solid #776767;
 
   border-radius: 5px;
 
@@ -12784,7 +12784,7 @@ textarea {
 
   text-transform: uppercase;
 
-  opacity:0;
+  opacity:.5;
 
   visibility:hidden;
 
