@@ -537,6 +537,66 @@
 
 }
 
+.social_nav .social_nav_sub{
+    height: 100px;
+      background-size: 100%;
+}
+
+
+
+#main_imgs{
+  background: url(images/Constellationcolor1-100x100.jpg) no-repeat;
+  height:100px;
+  width:100px;
+  visibility: visible;
+  margin-right: 10px;
+}
+#main_img{
+
+  display: none;
+}
+#my_nav{
+  display:none;
+}
+
+#christa_content{margin-top:0px;
+    margin-left: 0px;
+}
+
+#beng-content{
+
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#focused-content{
+
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#hb_content{
+
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+#heal-content{
+
+  margin-top: 0px;
+  margin-left: 0px;
+}
+#pet_content{
+
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+#fiber_content{
+
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+
 }
 
  
@@ -670,6 +730,24 @@
 }
 
 @media (min-width: 900px) and (max-width: 1200px) {
+
+  #my_nav{
+    display:none;
+  }
+#main_img{
+
+  display:none;
+
+}
+  #main_imgs{
+
+    background: url(images/Constellationcolor1-100x100.jpg) no-repeat;
+   height:100px;
+   width:100px;
+   visibility: visible;
+    
+
+  }
 
   .full-grid-content article p{
 
@@ -917,6 +995,24 @@
 
 }
 
+#my_nav{
+    display:none;
+  }
+#main_img{
+
+  display:none;
+
+}
+  #main_imgs{
+
+    background: url(images/Constellationcolor1-100x100.jpg) no-repeat;
+   height:100px;
+   width:100px;
+   visibility: visible;
+    
+
+  }
+
   
 
 }
@@ -1123,6 +1219,21 @@
 
   /* Mobile Landscape */
 
+
+   #main_img{
+
+    display: none;
+  }
+  #main_imgs{
+
+    background: url(images/Constellationcolor1-100x100.jpg) no-repeat;
+   height:100px;
+   width:100px;
+   visibility: visible;
+    
+
+  }
+
   #header .navbar-header-phone {
 
     display: none;
@@ -1219,7 +1330,12 @@
 
 }
 
-}
+#my_nav{
+    display:none;
+  }
+
+
+
 
 }
 
@@ -1342,8 +1458,34 @@
   display:none;
 
 }
+#my_nav{
 
-  
+  display: none;
+}
+   #main_img{
+
+    display: none;
+  }
+  #main_imgs{
+
+    background: url(images/Constellationcolor1-100x100.jpg) no-repeat;
+   height:100px;
+   width:100px;
+   visibility: visible;
+   margin-right: 0px;
+   display: block;
+    
+
+  }
+ #resp_social {
+  margin-top: -75px;
+ }
+
+#christa_content{
+  margin-left:0px;
+}
+
+
 
 
 
