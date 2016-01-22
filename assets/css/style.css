@@ -14010,3 +14010,176 @@ div.youtube{
 	background: url(images/author.jpg) no-repeat;
 }
 
+
+
+
+/* attempt to tie blog style with original style*/
+
+
+
+*styling for christa page*/
+
+
+
+.social_nav {
+
+	float: left;
+
+	width: 100%;
+
+}
+
+.social_nav .social_nav_sub  {
+
+   
+   float: left;
+
+   height: 100px;
+
+   width: 100%;
+
+}
+
+.social_nav_sub #social {
+ 
+	margin-top:1px;
+}
+
+#social .foosocial {
+	display: inline-flex;
+}
+
+
+
+.social_nav .foosocial {
+	float: left;
+	width: 100%;
+	padding: 0px;
+	
+}
+
+.social_nav .foosocial  i {
+	color: #fff;
+	width: 54px;
+	height: 54px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 54px;
+	border-radius: 100%;
+	transition: all 0.3s ease;
+}
+.social_nav .foosocial .faceboox i {
+	background: #2b87c7;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.social_nav .foosocial .twitter i {
+	background: #38c0dd;
+}
+/*.footer .foosocial li.gplus i {
+	background: #dc6218;
+}*/
+.social_nav .foosocial .youtube i {
+	background: #b34300;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.social_nav .foosocial .instagram i {
+	background: #2862d8;
+	margin-right: 20px;
+	margin-top:20px;
+}
+.social_nav .foosocial  i:hover {
+	opacity: 0.5;
+}
+
+
+#main_img{
+	background:url(images/Constellationcolor1-400x400.jpg) no-repeat;
+	height: 400px;
+
+}
+
+
+#my_nav{
+
+	
+	opacity: .6;
+	z-index: 250;
+	margin-bottom:100px;
+	
+
+}
+
+#myScrollspy li{
+	color:white;
+}
+
+.affix{
+
+	bottom:100px;
+}
+
+#main_imgs{
+	display: none;
+}
+
+#christa_content{
+
+	margin-top: 50px;
+	margin-left: -420px;
+}
+
+
+#beng-content{
+
+	margin-top: 70px;
+	margin-left: -420px;
+}
+
+#focused-content{
+
+	margin-top: 10px;
+	margin-left: -420px;
+}
+
+
+#hb_content{
+
+	margin-top: 10px;
+	margin-left: -420px;
+}
+
+
+#heal-content{
+
+	margin-top: 70px;
+	margin-left: -420px;
+}
+#pet_content{
+
+	margin-top: 70px;
+	margin-left: -420px;
+}
+
+#fiber_content{
+
+	margin-top: 0px;
+	margin-left: -420px;
+}
+
+
+
+#more{
+
+	background-color:#39B3D7;
+}
+
+
+#icon img{
+	padding:0px;
+}
+
+#resp_social{
+	padding-bottom:10px;
+}
