@@ -555,6 +555,9 @@
 
   display: none;
 }
+
+ #pack_link{display: block;}
+
 #my_nav{
   display:none;
 }
@@ -730,6 +733,7 @@
 }
 
 @media (min-width: 900px) and (max-width: 1200px) {
+ #pack_link{display: block;}
 
   #my_nav{
     display:none;
@@ -745,6 +749,7 @@
    height:100px;
    width:100px;
    visibility: visible;
+   display: block;
     
 
   }
@@ -982,10 +987,7 @@
      .secarea{
 
       margin-top: -6px;
-
-
-
-    }
+ }
 
 
 
@@ -995,9 +997,12 @@
 
 }
 
+#pack_link{display: block;}
+
 #my_nav{
     display:none;
   }
+
 #main_img{
 
   display:none;
@@ -1009,11 +1014,38 @@
    height:100px;
    width:100px;
    visibility: visible;
-    
-
+   display: block;
   }
 
-  
+  #christa_content{
+  margin-left:0px;
+}
+
+#beng-content{
+  margin-left:0px;
+}
+
+#focused-content{
+
+margin-left: 0px;
+}
+
+#hb_content{
+  margin-left:0px;
+}
+
+#heal-content{
+  margin-left: 0px;
+}
+
+#pet_content{
+
+margin-left:0px;
+}
+
+#fiber_content{
+  margin-left:0px;
+}
 
 }
 
@@ -1217,7 +1249,9 @@
 
 @media (min-width: 320px) and (max-width: 479px) {
 
+
   /* Mobile Landscape */
+
 
 
    #main_img{
@@ -1333,6 +1367,8 @@
 #my_nav{
     display:none;
   }
+
+  #pack_link{display: block;}
 
 
 
@@ -1458,6 +1494,9 @@
   display:none;
 
 }
+
+ #pack_link{display: block;}
+
 #my_nav{
 
   display: none;
@@ -1485,8 +1524,30 @@
   margin-left:0px;
 }
 
+#beng-content{
+  margin-left:0px;
+}
 
+#focused-content{
 
+margin-left: 0px;
+}
 
+#hb_content{
+  margin-left:0px;
+}
+
+#heal-content{
+  margin-left: 0px;
+}
+
+#pet_content{
+
+margin-left:0px;
+}
+
+#fiber_content{
+  margin-left:0px;
+}
 
 }
